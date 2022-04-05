@@ -1,3 +1,0 @@
-digraph dnsbleh {
-	A -> {B, C, D }
-}
